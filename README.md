@@ -1,3 +1,3 @@
-# Cozy-light plugin example
+# Cozy-distro plugin
 
-Provides a plugin example implementation to kick-start your dev.
+Installs a cozy-distro from github, npm, or file system, it s a Cozy-light plugin

@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "maboiteaspam",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "devDependencies": {
+    "commander": "^2.6.0"
+  },
+  "dependencies": {
+    "npm-manifest-helper": "^1.0.2",
+    "printit": "^0.1.5"
+  }
 }
